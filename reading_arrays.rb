@@ -32,7 +32,7 @@ def last_student_by_method
 end
 
 def first_second_and_third_students
-  puts STUDENT_NAMES["Adele", "Beyonce", "Cardi B"]
+  puts STUDENT_NAMES[0..2]
 
 
 end
