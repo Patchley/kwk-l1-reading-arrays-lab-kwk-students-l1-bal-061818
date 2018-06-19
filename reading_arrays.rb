@@ -28,12 +28,12 @@ end
 first_student_by_method
 
 def last_student_by_method
-  puts STUDENT_NAMES.first
+  puts STUDENT_NAMES.last
 end
 
 def first_second_and_third_students
   puts STUDENT_NAMES["Adele", "Beyonce", "Cardi B"]
-  
+
 
 end
 first_second_and_third_students
