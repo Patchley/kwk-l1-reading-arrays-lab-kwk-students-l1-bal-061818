@@ -33,7 +33,7 @@ end
 
 def first_second_and_third_students
   puts STUDENT_NAMES["Adele", "Beyonce", "Cardi B"]
-  puts students.last 
+  
 
 end
 first_second_and_third_students
